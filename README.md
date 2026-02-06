@@ -2,4 +2,4 @@
 
 This repository has the starter code for CIS-92. 
 
-Author: Bike Batera
+Author: Mike Matera
