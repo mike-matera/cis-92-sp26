@@ -17,4 +17,4 @@ def site_index(request):
 
 
 def index(request):
-    return HttpResponse("Hello, CIS-92. You're at the polls index.")
+    return HttpResponse("Hello! You're at the polls index.")
